@@ -6,6 +6,8 @@ public class githubFirst {
 
         System.out.println("IntelliJ'den GitHub'a giden yol");
         System.out.println("IntelliJ'den GitHub'a giden yol");
+            System.out.println("IntelliJ'den GitHub'a giden yol");
+        System.out.println("IntelliJ'den GitHub'a giden yol");
 
     }
 
